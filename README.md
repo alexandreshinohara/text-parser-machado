@@ -1,2 +1,4 @@
 # text-parser-machado
-A simple txt script to parse and collect chapter number of different translations of Dom Casmurro
+A simple txt script to parse and collect chapter number of different translations of Dom Casmurro.
+
+Uses pandas to read, organize and export data. 
